@@ -13,8 +13,8 @@ Read the tutorial paper [here](https://docs.causalbench.org/files/papers/CausalB
 ## Presenters
 |  |  | | |
 |--|--|--|--|
-|[Ahmet Kapkiç](kapkic.github.io)  | Pratanu Mandal  | Abhinav Gorantla |Kasim S. Candan |
-|Ph.D Student @ Arizona State University| Ph.D Student @ Arizona State University | M. Sc Student @ Arizona State University| President's Professor @ Arizona State University|
+|[Ahmet Kapkiç](https://kapkic.github.io)  | Pratanu Mandal  | Abhinav Gorantla |Kasim S. Candan |
+|Arizona State University| Arizona State University | Arizona State University | Arizona State University|
 
 ## Contributors
 |  |  | | |
@@ -50,7 +50,7 @@ TBA
 TBA
 
 ### Documentation
-You can access CausalBench documentation at [docs.causalbench.org](docs.causalbench.org), which is the acting knowledge base for CausalBench.
+You can access CausalBench documentation at [docs.causalbench.org](https://docs.causalbench.org), which is the acting knowledge base for CausalBench.
 
 ## References
  1. Azad, F. T., Candan, K. S., Kapkiç, A., Li, M.-L., Liu, H., Mandal, P., Sheth, P., Arslan, B., Chowell-Puente, G., Sabo, J., et al. (vision paper) a vision for spatio-causal situation awareness, forecasting, and planning. ACM Transactions on Spatial Algorithms and Systems 10, 2 (2024), 1–42. 

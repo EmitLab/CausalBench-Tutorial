@@ -8,7 +8,7 @@ Recent advances in causal machine learning introduced a plethora of new causal d
 
 ## Tutorial
 In this 3-hour long tutorial, we will explore the field of Causality, the state of the art, difficulties in benchmarking studies, and learn how to utilize CausalBench to facilitate comparative and transparent benchmarking.
-Read the tutorial paper here: [add link]
+Read the tutorial paper [here](https://docs.causalbench.org/files/papers/CausalBench_Tutorial.pdf).
 
 ## Presenters
 |  |  | | |
@@ -23,7 +23,7 @@ Read the tutorial paper here: [add link]
 | Arizona State University| Arizona State University | Amazon | Arizona State University|
 
 ## Schedule
-The tutorial will take place at KDD'25, on TBA, at TBA.
+The tutorial will take place at KDD'25, on Monday, August 4, 8:00 AM – 11:00 AM.
 
 ### Program Outline
  1. Causality: What, Why, How (1h)
@@ -41,7 +41,7 @@ The tutorial will take place at KDD'25, on TBA, at TBA.
 	- Challenges ahead and contributing to CausalBench
 
 ## Tutorial Material
-We provide several tutorial materials for  your convenience and reference.
+We provide several tutorial materials for your convenience and reference.
 
 ### Slides
 TBA

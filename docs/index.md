@@ -44,12 +44,12 @@ The tutorial will take place at KDD'25, on Monday, August 4, 8:00 AM – 11:00 A
 We provide several tutorial materials for your convenience and reference. These materials may be updated in the future to provide the best CausalBench experience.
 
 ### Slides
-You may access the [slides](../resources/site/KDD'25%20Tutorial%20Deck.pdf) here.
+You may access the [slides](/resources/KDD25_Tutorial_Deck.pdf) here.
 
 ###  Quickstart file (Google Colab)
 For your convenience, we have provided two Python Notebook files that can be run on Google Colab.
-- [CausalBench Tutorial File](https://colab.research.google.com/drive/1BxN6ol7hVi66tifZ0WRlPgmbsr8w0lY6), *this file will be utilized through the hands-on tutorial.
-- [CausalBench Quickstart File](https://colab.research.google.com/drive/1M068y8xOeAzCihDf1YVsFNZUY5JMHCQ8) 
+   - [CausalBench Tutorial File](https://colab.research.google.com/drive/1BxN6ol7hVi66tifZ0WRlPgmbsr8w0lY6), *this file will be utilized through the hands-on tutorial.
+   - [CausalBench Quickstart File](https://colab.research.google.com/drive/1M068y8xOeAzCihDf1YVsFNZUY5JMHCQ8) 
 ### Documentation
 You can access CausalBench documentation at [docs.causalbench.org](https://docs.causalbench.org), which is the acting knowledge base for CausalBench.
 

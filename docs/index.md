@@ -1,9 +1,9 @@
 <!-- # Presenters’ names and bibliography, tutorial outline and what will the participants learn from the tutorial. -->
 
 # CausalBench: Causal Learning Research Streamlined
-[![KDD Logo](resources/images/kddlogo.png)](https://https://kdd2025.kdd.org/)
+[![KDD Logo](resources/images/kddlogo.png)](https:..kdd2025.kdd.org/)
 ## Schedule
-The tutorial will take place at [KDD'25](https://https://kdd2025.kdd.org/), on Monday, August 4, 8:00 AM – 11:00 AM, in Toronto Convention Centre, Room 707. 
+The tutorial will take place at [KDD'25](https://kdd2025.kdd.org/), on Monday, August 4, 8:00 AM – 11:00 AM, in Toronto Convention Centre, Room 707. 
 
 ## Tutorial
 In this 3-hour long tutorial, we will explore the field of Causality, the state of the art, difficulties in benchmarking studies, and learn how to utilize CausalBench to facilitate comparative and transparent benchmarking.

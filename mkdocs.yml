@@ -1,7 +1,7 @@
 site_name: CausalBench Tutorial KDD'25  
 nav:
   - Home: index.md
-  - Preparing: prep.md
+  - How to Prepare: prep.md
   - Documentation: https://docs.causalbench.org
 
 theme:
